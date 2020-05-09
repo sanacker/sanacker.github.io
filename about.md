@@ -5,11 +5,8 @@ permalink: /about/
 ---
 
 Samuel Anacker
-currently: Senior Product Manager at Dormify
-
-### More Information
-
-want to learn more?
+currently: senior product manager at [dormify](https://dormify.com)
+previously: ecommerce manager at [greats](https://greats.com)
 
 ### Contact me
 

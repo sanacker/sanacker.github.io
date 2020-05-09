@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Samuel Anacker
-currently: senior product manager at [dormify](https://dormify.com)
-previously: ecommerce manager at [greats](https://greats.com)
+Samuel Anacker<br />
+currently: senior product manager at [dormify](https://www.dormify.com)<br />
+previously: ecommerce manager at [greats](https://www.greats.com)
 
 ### Contact me
 

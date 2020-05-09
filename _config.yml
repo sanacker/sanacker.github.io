@@ -84,6 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-  #Excerpt Separator
-  excerpt_separator: <!–break–>

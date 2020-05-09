@@ -6,8 +6,8 @@ title: There Is No There There
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-1.jpg)
 <!--more-->
 <img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-1.jpg">
-<img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-1.jpg">
-<img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-1.jpg">
+<img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-2.jpg">
+<img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-3.jpg">
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-2.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-3.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-4.jpg)

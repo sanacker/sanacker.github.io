@@ -1,13 +1,12 @@
 ---
 layout: post
 title: There Is No There There
-excerpt:
-![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-1.jpg)
 ---
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-1.jpg)
+<!--more-->
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-2.jpg)
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-3.jpg)
-![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-4.jpg)
+![_config.yml]({{ site.baseurl }}/images/tshoe-valley/1-4.jpg)
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-5.jpg)
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-6.jpg)
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-7.jpg)

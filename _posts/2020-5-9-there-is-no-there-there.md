@@ -2,7 +2,6 @@
 layout: post
 title: There Is No There There
 ---
-![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-1.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-1.jpg)
 <!--more-->
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-2.jpg)

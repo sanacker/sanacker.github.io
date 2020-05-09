@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There Is No There There
+title: Shoe Valley
 ---
 ![_config.yml]({{ site.baseurl }}/images/shoe-valley/1-1.jpg)
 <!--more-->

@@ -6,6 +6,7 @@ title: There Is No There There
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-2.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-3.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-4.jpg)
+<!–break–> 
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-5.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-6.jpg)
 ![_config.yml]({{ site.baseurl }}/images/there-is-no-there-there/1-7.jpg)

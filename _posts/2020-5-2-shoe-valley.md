@@ -6,11 +6,11 @@ title: Shoe Valley
 <!--more-->
 <br />
 <br />
-<br />
 ## photos for [greats](https://www.greats.com)
 <br /> 
-## shot on location at their factories in civitanova marche, italy, 2018
+## shot on location at their factories 
 <br />
+##civitanova marche, italy, 2018
 <br />
 <br />
 <img src="/img/blank.png" alt="" data-echo="/images/shoe-valley/1-2.jpg">

@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Samuel Anacker
+currently: Senior Product Manager at Dormify
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+want to learn more?
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[samanacker@gmail.com](mailto:samanacker@gmail.com)

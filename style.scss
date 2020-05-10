@@ -240,21 +240,10 @@ nav {
 //
 // .main
 //
-.posts > .post {
-  padding: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-@include not-mobile{
-  .posts {
-    display:flex;
-    width:auto;
-    height:80vh;
-  }
 
-  .posts > .post {
-    padding: 1em;
-    min-width:40%;
-  }
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {

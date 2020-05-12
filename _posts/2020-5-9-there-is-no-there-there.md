@@ -4,8 +4,8 @@ title: There Is No There There
 ---
 <img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-1.jpg">
 <!--more-->
-## series exploring placelessness in large urban areas. 2014-2019
-## photos from new york city, seattle, denver, montreal, calgary, amsterdam, berlin, oslo
+## series exploring placelessness in large urban areas
+## 2014-2019, new york city, seattle, denver, montreal, calgary, amsterdam, berlin, oslo, copenhagen
 <img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-2.jpg">
 <img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-3.jpg">
 <img src="/img/blank.png" alt="" data-echo="/images/there-is-no-there-there/1-4.jpg">

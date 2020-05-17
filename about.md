@@ -19,12 +19,12 @@ previously: ecommerce manager at [greats](https://www.greats.com)
 >
   <label>
     Your email:
-    <input type="text" name="_replyto">
+    <input type="text" name="_replyto" style="border:1px solid #000">
   </label>
   <br />
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message" style="width:100%;height:200px;border:1px solid #000;"></textarea>
   </label>
 
   <!-- your other form fields go here -->

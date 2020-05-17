@@ -19,7 +19,7 @@ previously: ecommerce manager at [greats](https://www.greats.com)
 >
   <label>
     Your email:
-    <input type="text" name="_replyto" style="border:1px solid #000">
+    <input type="text" name="_replyto" style="border:1px solid #000;height:30px;">
   </label>
   <br />
   <label>

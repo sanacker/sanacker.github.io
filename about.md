@@ -5,14 +5,12 @@ permalink: /about/
 ---
 
 Samuel Anacker<br />
-okay person in brooklyn, ny<br />
+okay person in brooklyn, ny<br /><br />
 currently: senior digital product manager at [plant people](https://www.plantpeople.co)<br />
 previously: senior product manager at [dormify](https://www.dormify.com)<br />
 before that: ecommerce manager at [greats](https://www.greats.com)
 
 ### Contact me
-
-<!-- modify this form HTML and place wherever you want your form -->
 
 <form
   action="https://formspree.io/xyynkkqk"

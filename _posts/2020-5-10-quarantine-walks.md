@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Quarantine Walks
+title: Self-Isolation
 ---
 <img src="/images/quarantine/low-1-1.jpg" alt="" data-echo="/images/quarantine/1-1.jpg">
 <!--more-->
-## ongoing series made during self-isolation, march 2020-
+## ongoing series made during self-isolation, march - june 2020
 <img src="/images/quarantine/low-1-2.jpg" alt="" data-echo="/images/quarantine/1-2.jpg">
 <img src="/images/quarantine/low-1-3.jpg" alt="" data-echo="/images/quarantine/1-3.jpg">
 <img src="/images/quarantine/low-1-4.jpg" alt="" data-echo="/images/quarantine/1-4.jpg">

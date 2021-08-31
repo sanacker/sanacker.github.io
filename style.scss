@@ -109,6 +109,14 @@ strong, b {
 img {
   max-width: 100%;
 }
+@media only screen and (max-width: 600px) {
+	.entry img {
+		max-height:85vh;
+	}
+	.entry p {
+		text-align:center;
+	}
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {

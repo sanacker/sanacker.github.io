@@ -8,7 +8,7 @@ Samuel Anacker<br />
 okay person in ridgewood, queens<br /><br />
 currently: senior product marketing manager at [nugs.net](https://www.nugs.net)<br />
 previously: senior digital product manager at [plant people](https://www.plantpeople.co)<br />
-before that: senior product manager at [dormify](https://www.dormify.com)<br />, ecommerce manager at [greats](https://www.greats.com)
+before that: senior product manager at [dormify](https://www.dormify.com),<br /> ecommerce manager at [greats](https://www.greats.com)
 
 ### Contact me
 

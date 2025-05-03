@@ -6,7 +6,7 @@ permalink: /about/
 
 Samuel Anacker<br />
 okay person in ridgewood, queens<br /><br />
- ecommerce manager at [linkedin](https://www.linkedin.com/in/samuelanacker/)
+[linkedin](https://www.linkedin.com/in/samuelanacker/)
 
 ### Contact me
 
